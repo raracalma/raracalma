@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil de Raracalma😁
+## Bem-vindo(a), sou Gael Oliveira😁
 
  <div>
    <a href="https://github.com/raracalma">
@@ -19,7 +19,7 @@
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue nas redes sociais abaixo!
+  ### me segue nas redes sociais abaixo!
  
 <div> 
   <a href="https://www.youtube.com/devemdobro" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
